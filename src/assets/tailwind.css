@@ -3,3 +3,7 @@
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";
+
+#note:hover #selectNote {
+  display: block;
+}
